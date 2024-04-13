@@ -1,13 +1,13 @@
 
 var config = {
     lines: [
-        "Dear stfu,",
-        "i never knew how much you mean to me when we first started talking . until today,i still love you as much as i did since the very first day we met. ",
-        " every since you came into my life, i felt like i was the happiest. i just want to let you know how much you mean to me and how much i appreciate you.",
-        "you never failed to make me smile. things aren't getting better every since we fought, i just miss you so much. having random break downs, with you on my mind wondering if you're doing fine. im sorry i wasn't what you wanted,",
-        "im sorry i wasn't the best, im sorry i couldn't be good enough for you.i just hope everything will be okay soon, i really miss how we used to talk.🥹", 
+        "Waanuuuuuu,",
+        "today i miss my waanuuuu so let me pen down ",
+        " missing that podaaaa , cuteeee face and voice , vc toooo sm , isokkayy ilyysm",
+        "mumbai ko bless kar rahi hai , lagta hai jaise shrey waanya ko miss kar rahaa , koi nhi 2 days to go , podaaaa idiot",
+        "okieee aise hi likh raha tha just to tell u that i miss u darling , kisses le lo and thode se de bhi dooooo, and enjoyy karoooo", 
        
     ],
-    date:"2022-08-09T20:15:00",
-    names: ["☃︎【 Your Tanmay 】","‎ "]
+    date:"2024-04-13T20:15:00",
+    names: ["☃︎【 Yours Shreyyyyuuuuu 】","‎ "]
 }
